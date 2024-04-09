@@ -52,7 +52,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/alfredo-castaldi-915999292/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-alfredo-castaldi-915999292%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/alfredo-castaldi-915999292/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-alfredo-castaldi%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:alfredcastaldi92@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alfredcastaldi92@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
